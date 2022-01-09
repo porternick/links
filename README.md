@@ -10,4 +10,4 @@
 
 [PayPal.Me](https://paypal.me/nicholasaporter)
 
-![PayPal.Me](https://porternick.github.io/links/paypalme.png "PayPal.Me" =200x200)
+![PayPal.Me](https://porternick.github.io/links/paypalme.png "PayPal.Me")
