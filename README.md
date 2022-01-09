@@ -3,7 +3,7 @@
 
 [Resume](https://porternick.github.io)
 
-[Middle School Earth Science](https://middlschoolearthscience.github.io)
+[Middle School Earth Science](https://middleschoolearthscience.github.io)
 
 [Teachers Pay Teachers](https://www.teacherspayteachers.com/Store/Middle-School-Earth-Science)
 
