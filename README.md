@@ -1,4 +1,4 @@
-![Profile](/profile.png "Profile")
+![Profile](/profile.png "Profile" =150x150)
 # Nick Porter
 ## I like to teach science and tinker in wood and code.
 
@@ -10,4 +10,4 @@
 
 [PayPal.Me](https://paypal.me/nicholasaporter)
 
-![PayPal.Me](/paypalme.png "PayPal.Me")
+![PayPal.Me](/paypalme.png "PayPal.Me" =200x200)
