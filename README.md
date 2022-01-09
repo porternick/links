@@ -1,4 +1,3 @@
-![PayPal.Me](https://porternick.github.io/links/paypalme.png "PayPal.Me")
 <!doctype html>
 <html lang="en">
   <head>
@@ -23,7 +22,7 @@
 [Teachers Pay Teachers](https://www.teacherspayteachers.com/Store/Middle-School-Earth-Science)
 
 [PayPal.Me](https://paypal.me/nicholasaporter)
-
+![PayPal.Me](https://porternick.github.io/links/paypalme.png "PayPal.Me")
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
