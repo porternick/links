@@ -9,4 +9,5 @@
 [Teachers Pay Teachers](https://www.teacherspayteachers.com/Store/Middle-School-Earth-Science)
 
 ![PayPal.Me](https://porternick.github.io/links/paypalme.png "PayPal.Me")
+
 [PayPal.Me](https://paypal.me/nicholasaporter)
